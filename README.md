@@ -3,13 +3,13 @@
 *Resources for my Virtual CC Fest session (Thonny + py5)*
 
 
-## Session activity 
+## Session activities
 
 **1 - MyBinder.org notebook:** https://mybinder.org/v2/gh/hx2A/py5examples/HEAD?urlpath=lab
 
 **2 - Thonny plug-in instructions:** https://github.com/tabreturn/thonny-py5mode
 
-**4 - Tasks:** https://github.com/tabreturn/cc-fest-py5/tasks
+**3 - Tasks:** https://github.com/tabreturn/cc-fest-py5/tree/main/tasks
 
 Here are the **session slides** and **session recording**: [slides.pdf](slides.pdf) and [recording.mp4](recording.mp4)
 
@@ -22,8 +22,9 @@ Here are the **session slides** and **session recording**: [slides.pdf](slides.p
 * [py5 reference](http://py5.ixora.io/reference/)
 * [py5 examples](https://github.com/hx2A/py5examples)
 * [The four py5 modes](http://py5.ixora.io/tutorials/py5-modes/)
-* [GitHub discussions](https://github.com/hx2A/py5generator)
-* [GitHub issues](https://github.com/hx2A/py5generator/issues)
+* [GitHub discussions (forum)](https://github.com/hx2A/py5generator)
+* [GitHub issues (bugs)](https://github.com/hx2A/py5generator/issues)
+* [Processing forum](https://discourse.processing.org/c/processing-py/9)
 
 
 ## Other useful resources 
@@ -38,7 +39,7 @@ This book is based on [Processing.py](https://py.processing.org/), but it should
 
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
-You can find the source code and resources for all of the tasks in the [book's GitHub repository](https://github.com/tabreturn/processing.py-book).
+You can find the source code and resources for all tasks in the [book's GitHub repository](https://github.com/tabreturn/processing.py-book). I'll get around to porting those to py5 ... sometime.
 
 
 
