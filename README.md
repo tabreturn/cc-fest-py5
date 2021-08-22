@@ -5,7 +5,7 @@
 
 ## Session activities
 
-Here are the **session slides** and **session recording**: [slides.pdf](slides.pdf) and [recording.mp4](recording.mp4)
+Here are the **session slides** and **session recording**: [slides.pdf](https://raw.githubusercontent.com/tabreturn/cc-fest-py5/main/slides.pdf) and [recording.mp4](https://raw.githubusercontent.com/tabreturn/cc-fest-py5/main/recording.mp4)
 
 **1 - MyBinder.org notebook:** https://mybinder.org/v2/gh/hx2A/py5examples/HEAD?urlpath=lab
 
