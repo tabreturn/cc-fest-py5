@@ -5,13 +5,13 @@
 
 ## Session activities
 
+Here are the **session slides** and **session recording**: [slides.pdf](slides.pdf) and [recording.mp4](recording.mp4)
+
 **1 - MyBinder.org notebook:** https://mybinder.org/v2/gh/hx2A/py5examples/HEAD?urlpath=lab
 
 **2 - Thonny plug-in instructions:** https://github.com/tabreturn/thonny-py5mode
 
 **3 - Tasks:** https://github.com/tabreturn/cc-fest-py5/tree/main/tasks
-
-Here are the **session slides** and **session recording**: [slides.pdf](slides.pdf) and [recording.mp4](recording.mp4)
 
 ---
 
